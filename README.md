@@ -15,7 +15,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/1dev-hridoy/Digital-Clock.git
+`git clone https://github.com/1dev-hridoy/Digital-Clock.git`
 Open the index.html file in your web browser.
 
 Usage
